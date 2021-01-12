@@ -1,5 +1,5 @@
 # Hackathon
-Hackathon 2021 - Pepper The Robot Team
+Hackathon 2021 - Pepper The Robot Team (Zahi Kapri - 307881276, Noa Weiss - 312427404, Itzhak Finkelstein 203640271 and Itamar Zigel 204381685) 
 
 In this repository you can find all our products in the Final Project.
 
